@@ -1,0 +1,7 @@
+﻿  parser.c
+C:\Users\sapir\OneDrive\שולחן העבודה\project_03 (1)\Compi03\Compi03\parser.c(879,7): warning C4101: 'inserted': unreferenced local variable
+C:\Users\sapir\OneDrive\שולחן העבודה\project_03 (1)\Compi03\Compi03\parser.c(1376,27): warning C4047: 'function': 'symbol *' differs in levels of indirection from 'int'
+C:\Users\sapir\OneDrive\שולחן העבודה\project_03 (1)\Compi03\Compi03\parser.c(1376,27): warning C4024: 'parse_EXPRESSION_t': different types for formal and actual parameter 1
+C:\Users\sapir\OneDrive\שולחן העבודה\project_03 (1)\Compi03\Compi03\parser.c(1383,29): warning C4047: 'function': 'symbol *' differs in levels of indirection from 'int'
+C:\Users\sapir\OneDrive\שולחן העבודה\project_03 (1)\Compi03\Compi03\parser.c(1383,29): warning C4024: 'parse_EXPRESSION_t': different types for formal and actual parameter 1
+  Compi03.vcxproj -> C:\Users\sapir\OneDrive\שולחן העבודה\project_03 (1)\Compi03\x64\Debug\Compi03.exe
